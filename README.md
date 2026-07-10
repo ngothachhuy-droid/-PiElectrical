@@ -17,7 +17,7 @@ Electrical Calculation App for Pi Network
 
 ## Developer
 
-ngothachhuy-droid
+ngothachhuy
 
 ## PiNet
 
@@ -25,7 +25,7 @@ https://apppielectrical6009.pinet.com
 
 ## Contact
 
-Email: your-email@example.com
+Email: ngothachhuy@gmail.com
 
 ---
 
